@@ -148,3 +148,6 @@ channels:
 `Settings -> Things -> myKNXDeviceTest -> Channels -> (Channel Identifier) -> Add Link to Item...`
 
 
+`ip gateway like ABB IPS/S 3.1.1 must restart to get new ip address from DHCP`
+
+
